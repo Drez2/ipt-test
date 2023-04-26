@@ -4,6 +4,6 @@ int main() {
 	printf("staging");
 	printf("new lines");
         printf("Age");
-        printf("pic");
+        printf("qwe");
 }
 
